@@ -8,31 +8,8 @@ PORT      STATE  SERVICE
 443/tcp   open   https
 445/tcp   closed microsoft-ds
 49156/tcp closed unknown
-MAC Address: 58:07:F8:B1:B6:90 (Nokia Solutions and Networks GmbH & KG)
 
-Nmap scan report for 192.168.18.6
-Host is up (0.011s latency).
-Not shown: 998 closed tcp ports (reset)
-PORT     STATE SERVICE
-5555/tcp open  freeciv
-8009/tcp open  ajp13
-MAC Address: EC:2B:EB:33:71:A6 (Amazon Technologies)
-
-Nmap scan report for 192.168.18.17
-Host is up (0.013s latency).
-All 1000 scanned ports on 192.168.18.17 are in ignored states.
-Not shown: 1000 closed tcp ports (reset)
 MAC Address: 4E:23:4C:3F:78:99 (Unknown)
-
-Nmap scan report for 192.168.18.19
-Host is up (0.011s latency).
-Not shown: 996 closed tcp ports (reset)
-PORT     STATE SERVICE
-8008/tcp open  http
-8009/tcp open  ajp13
-8443/tcp open  https-alt
-9000/tcp open  cslistener
-MAC Address: 14:85:54:D3:19:3A (Earda Technologies)
 
 Nmap scan report for 192.168.18.13
 Host is up (0.0000040s latency).
